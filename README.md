@@ -1,6 +1,7 @@
 # Hi, I'm Aaditya Gusai 👋
 
-📄 [Download My Resume](https://github.com/simpaaditya29/portfolio-site/raw/main/public/Aaditya_Gusai_Resume.pdf)
+📄 [Download My Resume](https://portfolio-site-aaditya10.vercel.app/Aaditya_Gusai_Resume.pdf)
+
 
 I build intelligent software, analytical tools, and automated workflows. I focus on backend logic, data analytics, and building chess engines and AI-driven applications.
 
