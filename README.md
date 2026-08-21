@@ -2,7 +2,6 @@
 
 📄 [Download My Resume](https://github.com/simpaaditya29/portfolio-site/blob/main/public/Aaditya_Gusai_Resume.pdf?raw=true)
 
-
 I build intelligent software, analytical tools, and automated workflows. I focus on backend logic, data analytics, and building chess engines and AI-driven applications.
 
 ---
