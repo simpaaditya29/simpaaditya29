@@ -34,4 +34,3 @@ I build intelligent software, analytical tools, and automated workflows. I focus
 * **Chess:** Active competitive play and tactical planning.
 * **Music & Guitar:** Dedicated acoustic and electric guitar practitioner, and an avid music listener.
 
-* 
